@@ -6,8 +6,3 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-
-# Data outputs (optional — remove if you want to track these)
-data/
-*.json
-*.csv
